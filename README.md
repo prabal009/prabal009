@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Prabal 
 
-<!--
-**prabal009/prabal009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in cybersecurity,
+problem solving, AI/ML and computer networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technologies
+
+Python • SQL • Git • GitHub • Linux • HTML • CSS
+
+##  Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- AI/ML
+- Network Security
+- Cloud Computing
+
+## 🚀 Projects
+
+### AI Sign Language Translator
+Real-time sign language recognition using computer vision
+and machine learning.
+
+## 🎯 Goals
+
+- Build meaningful projects
+- Improve problem-solving skills
+- Contribute to open source

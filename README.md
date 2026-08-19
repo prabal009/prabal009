@@ -7,7 +7,7 @@ problem solving, AI/ML and computer networks.
 
 ##  What I Know
 
-Python • SQL • Git • GitHub • Linux • HTML • CSS
+Python • SQL • Git • GitHub • Linux • HTML • CSS • C • Java
 
 ##  Currently Learning
 

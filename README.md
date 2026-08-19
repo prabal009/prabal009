@@ -5,7 +5,7 @@
 I'm a Computer Science student interested in cybersecurity,
 problem solving, AI/ML and computer networks.
 
-##  Technologies
+##  What I Know
 
 Python • SQL • Git • GitHub • Linux • HTML • CSS
 
@@ -17,13 +17,13 @@ Python • SQL • Git • GitHub • Linux • HTML • CSS
 - Network Security
 - Cloud Computing
 
-## 🚀 Projects
+##  Projects
 
 ### AI Sign Language Translator
 Real-time sign language recognition using computer vision
 and machine learning.
 
-## 🎯 Goals
+##  Goals
 
 - Build meaningful projects
 - Improve problem-solving skills

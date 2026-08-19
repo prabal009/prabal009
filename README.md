@@ -1,4 +1,4 @@
-# Hi, I'm Prabal 
+# Hi, I'm Prabal Pratap Singh
 
 ### Computer Science Student | Developer
 

@@ -3,15 +3,25 @@
 ### Computer Science Student | Developer
 
 I'm a Computer Science student interested in cybersecurity,
-problem solving, AI/ML and computer networks.
+problem solving, Web security, Cloud Security, Network Security
 
 ##  What I Know
 
-Python • SQL • Git • GitHub • Linux • HTML • C • Java
+Python • SQL • Git • GitHub • Linux • HTML • C 
 
 ##  Currently Learning
 
 - Data Structures & Algorithms
+- javascript
+- golang
+- rust
+- docker
+- kubernets
+- nodejs
+- reactjs
+- react
+- redis
+- postgresql
 - Java
 - AI/ML
 - Network Security

@@ -7,7 +7,7 @@ problem solving, Web security, Cloud Security, Network Security
 
 ##  What I Know
 
-Python • SQL • Git • GitHub • Linux • HTML • C 
+Python • SQL • Git • GitHub • Linux • HTML • C • CSS
 
 ##  Currently Learning
 

@@ -27,11 +27,16 @@ Python • SQL • Git • GitHub • Linux • HTML • C • CSS • JavaScrip
 - Network Security
 - Cloud Computing
 
-##  Projects
+##  Major Projects
 
 ### AI Sign Language Translator
 Real-time sign language recognition using computer vision
 and machine learning.
+
+### Argus-Shell
+Unix shell written in python
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal009&label=Profile%20views&color=0e75b6&style=flat" alt="prabal009" /> </p>
 

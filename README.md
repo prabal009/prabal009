@@ -36,6 +36,9 @@ and machine learning.
 ### Argus-Shell
 Unix shell written in python
 
+### Truth-Lens
+An Ai featured application which identifies whether a message which came on your whatsapp or anywhere is valid or not
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal009&label=Profile%20views&color=0e75b6&style=flat" alt="prabal009" /> </p>

@@ -22,13 +22,33 @@ problem solving, Web security, Cloud Security, Network Security
 
 ## Currently Learning
 
-| | | |
-| :--- | :--- | :--- |
-| Data Structures & Algorithms | javascript | golang |
-| rust | docker | kubernets |
-| nodejs | reactjs | react |
-| redis | postgresql | Java |
-| AI/ML | Network Security | Cloud Computing |
+<table>
+  <tr>
+    <td>Data Structures &amp; Algorithms</td>
+    <td>javascript</td>
+    <td>golang</td>
+  </tr>
+  <tr>
+    <td>rust</td>
+    <td>docker</td>
+    <td>kubernets</td>
+  </tr>
+  <tr>
+    <td>nodejs</td>
+    <td>reactjs</td>
+    <td>react</td>
+  </tr>
+  <tr>
+    <td>redis</td>
+    <td>postgresql</td>
+    <td>Java</td>
+  </tr>
+  <tr>
+    <td>AI/ML</td>
+    <td>Network Security</td>
+    <td>Cloud Computing</td>
+  </tr>
+</table>
 
 <br />
 
